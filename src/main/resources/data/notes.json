@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "title": "Appointment with Dentist",
+    "content": "Time: 10:00 AM, Location: Dental Clinic, 123 Main Street"
+  },
+  {
+    "id": "2",
+    "title": "Grocery Shopping",
+    "content": "Time: After Work, List: Milk, Eggs, Bread, Fruits"
+  },
+  {
+    "id": "3",
+    "title": "Meeting with Project Team",
+    "content": "Time: 2:00 PM, Location: Conference Room B"
+  },
+  {
+    "id": "4",
+    "title": "Call Mom for Her Birthday",
+    "content": "Time: Evening, Gift: Flowers and Card"
+  },
+  {
+    "id": "5",
+    "title": "Gym Session",
+    "content": "Time: 6:00 PM, Activity: Cardio and Strength Training"
+  }
+]
